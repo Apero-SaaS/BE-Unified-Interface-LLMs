@@ -305,6 +305,7 @@ profile = "black"
 version = "1.96.0"
 version_files = [
     "pyproject.toml:^version",
+    "package.json:\"version\":",
 ]
 
 [tool.pytest.ini_options]

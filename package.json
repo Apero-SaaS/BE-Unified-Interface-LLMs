@@ -1,4 +1,9 @@
 {
+  "name": "litellm",
+  "version": "1.96.0",
+  "description": "Root npm manifest for this repo — pins root-level JS tooling (Prisma CLI, docs deps) and known-vulnerable transitive packages. Not published to any registry.",
+  "license": "MIT",
+  "private": true,
   "dependencies": {
     "prism-react-renderer": "2.4.1",
     "prisma": "5.17.0",
